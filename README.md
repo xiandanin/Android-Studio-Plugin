@@ -1,5 +1,5 @@
 # Android-Studio-Plugin
-Android Studio上一些实用的插件
+Android Studio上一些实用的插件 - 不定期更新
 
 ### __1.GsonOrXmlFormat__
 Github - [https://github.com/zzz40500/GsonFormat](https://github.com/zzz40500/GsonFormat)  
